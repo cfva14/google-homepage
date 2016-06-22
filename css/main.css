@@ -54,12 +54,19 @@ header ul li:nth-child(3) img{
 .google .border{
 	border: 1px solid #777;
 	padding: 10px;
-	width: 100%;
+	width: 540px;
 	margin-top: 30px;
 	margin-bottom: 30px;
+	position: relative;
+}
+.google .border img{
+	width: 20px;
+	position: absolute;
+	transform: translate(250px);
+	margin-top: -22px;
 }
 .google form input{
-	width: 100%;
+	width: 500px;
 	border: none;
 }
 .google form input{
@@ -67,7 +74,7 @@ header ul li:nth-child(3) img{
 }
 
 .center-button{
-	width: 45%;
+	width: 270px;
 	margin: auto;
 	position: relative;
 	transform: translate(2%);
