@@ -1,0 +1,10 @@
+#main{
+	background: red;
+	width: 200px;
+	height: 200px;
+	bottom: 0px;
+	position: fixed;
+}
+body{
+	height: 200vh
+}
