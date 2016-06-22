@@ -1,3 +1,4 @@
+/* HEADER section*/
 header ul{
 	list-style: none;
 	padding-top: 5px;
@@ -14,6 +15,9 @@ header ul li a{
 	text-decoration: none;
 	font-family: arial;
 	font-size: small;
+}
+header ul li a:hover{
+	text-decoration: underline;
 }
 header ul li:first-of-type img{
 	width: 30px;
@@ -33,9 +37,7 @@ header ul li:nth-child(3) img{
 	width: 25px;
 	height: auto;
 }
-
-
-
+/* Google logo, search form and buttons section ****************************/
 .google{
 	position: absolute;
 	max-width: 600px;
@@ -92,9 +94,7 @@ header ul li:nth-child(3) img{
 	border:none;
 }
 
-
-
-
+/* Footer section **********************************************************/
 footer{
 	position: fixed;
 	bottom: 0px;
