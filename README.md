@@ -5,8 +5,8 @@ This is the front end of the google homepage.
 
 # Technologies used
 
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Notes
 
